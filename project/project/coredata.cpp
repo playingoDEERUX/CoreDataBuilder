@@ -1,4 +1,5 @@
 #include "coredata.hpp"
+#define _SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING
 
 ofstream items;
 string secret = "PBG892FXX982ABC*";
